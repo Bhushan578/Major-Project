@@ -1,0 +1,1 @@
+http://localhost:5000/predict?input_data[]=5&input_data[]=140&input_data[]=80&input_data[]=20&input_data[]=195&input_data[]=25.7&input_data[]=0.687&input_data[]=40
